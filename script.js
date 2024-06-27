@@ -1,7 +1,7 @@
 // Your personal information
 const personalInfo = {
     name: "Salako lateef Olatunbosun",
-    username: "Olatunbosun",
+    username: "Enzorx",
     email: "Salakolateef331@gmail.com"
 };
 
